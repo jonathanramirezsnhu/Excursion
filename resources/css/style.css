@@ -1,0 +1,11 @@
+html {
+    background-color: #000000 ;
+    color: #ffffff; /*Default color*/
+    text-align: center;
+}
+h1 {
+    font-family: "Verdana", sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
