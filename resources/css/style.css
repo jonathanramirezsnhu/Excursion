@@ -9,3 +9,20 @@ h1 {
     font-size: 50px;
     text-align: center;
 }
+h2 {
+    font-family: "Verdana", sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+a {
+    color: #7fffd4;
+    font-size: 16px;
+}
+p {
+    font-family: "Verdana", sans-serif;
+    font-size: 21px;
+    color: #808080;
+}
+#copyright {
+    text-align: right !important; 
+}
